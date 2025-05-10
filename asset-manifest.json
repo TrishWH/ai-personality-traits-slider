@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ai-personality-traits-slider/static/css/main.842da5ee.css",
-    "main.js": "/ai-personality-traits-slider/static/js/main.69914390.js",
+    "main.css": "/ai-personality-traits-slider/static/css/main.b74f136c.css",
+    "main.js": "/ai-personality-traits-slider/static/js/main.a8f4be16.js",
     "index.html": "/ai-personality-traits-slider/index.html",
-    "main.842da5ee.css.map": "/ai-personality-traits-slider/static/css/main.842da5ee.css.map",
-    "main.69914390.js.map": "/ai-personality-traits-slider/static/js/main.69914390.js.map"
+    "main.b74f136c.css.map": "/ai-personality-traits-slider/static/css/main.b74f136c.css.map",
+    "main.a8f4be16.js.map": "/ai-personality-traits-slider/static/js/main.a8f4be16.js.map"
   },
   "entrypoints": [
-    "static/css/main.842da5ee.css",
-    "static/js/main.69914390.js"
+    "static/css/main.b74f136c.css",
+    "static/js/main.a8f4be16.js"
   ]
 }
